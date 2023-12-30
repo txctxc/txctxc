@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Hi%2C+I'm+txctxc.++I+am+currently+a+master+student+at+XJTU)](https://git.io/typing-svg)
-![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
-
+<img src="https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif" width="323.6" height="200">
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=txctxc&theme=github_dark) 
+![](https://komarev.com/ghpvc/?username=txctxc)
 
 <!--
 #### Github actions to be learned:https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid
@@ -47,6 +48,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
+
 ### 🧑‍💻 Developer/Forums
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
@@ -85,9 +87,6 @@
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=txctxc&theme=github_dark) 
-![](https://komarev.com/ghpvc/?username=txctxc)
 
 <!--
 **txctxc/txctxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
