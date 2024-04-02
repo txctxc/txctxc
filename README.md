@@ -1,11 +1,16 @@
 <!-- to do: an amazing profile:
 https://github.com/BEPb/BEPb
 -->
+<!-- https://github.com/tuongtranngoc/tuongtranngoc/blob/main/README.md?plain=1
+-->
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="100"/>
+</div>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Hi%2C+I'm+txctxc.++currently+an+enthusiast+of+machine+learning.)](https://git.io/typing-svg)
-<img src="https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif" width="323.6" height="200">
+<img src="https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif" width="161.8" height="100">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=txctxc&theme=github_dark) 
 ![](https://komarev.com/ghpvc/?username=txctxc)
-
 <!--
 #### Github actions to be learned:https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
